@@ -1,4 +1,4 @@
-group = "dev.thriving.oss"
+group = "com.tonyghouse"
 
 plugins {
     alias(libs.plugins.publish)
